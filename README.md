@@ -1,0 +1,3 @@
+# useIsOnline: A React Hook to Check the Online Status of the User's Device
+
+#### The \`useIsOnline\` hook is a custom React hook that allows you to check the online status of the user's device. It uses the \`window.navigator.onLine\` property, which returns a boolean value indicating whether the device is currently online (true) or offline (false). The hook provides a simple and efficient way to monitor the online/offline status of the user in a React application.
